@@ -380,7 +380,7 @@ body {
 .nav-icon,
 .main-nav-link {
   float: left;
-  color: #fff;
+  color: #8f7964;
   opacity: 0.6;
   text-decoration: none;
   text-shadow: 0 1px rgba(0,0,0,0.2);
@@ -1256,7 +1256,7 @@ pre .javascript .function {
     font-weight: bold;
   }
   .mobile-nav-link:hover {
-    color: #8f7964;
+    color: #fff;
   }
 }
 @media screen and (min-width: 768px) {
