@@ -1256,7 +1256,7 @@ pre .javascript .function {
     font-weight: bold;
   }
   .mobile-nav-link:hover {
-    color: #fff;
+    color: #8f7964;
   }
 }
 @media screen and (min-width: 768px) {
